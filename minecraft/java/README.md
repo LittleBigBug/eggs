@@ -94,3 +94,8 @@ The official Tekkit Classic modpack. Build factories, automate crafting!
 ## Tuinity
 Fork of Paper aimed at improving server performance at high playercounts.
 [Tuinity GitHub](https://github.com/Spottedleaf/Tuinity) 
+
+## Yatopia
+Tuinity fork that combines patches from many other Paper forks and optimization mods, as well as their own.
+[Yatopia GitHub](https://github.com/YatopiaMC/Yatopia)
+[Yatopia Website](https://yatopia.net) 
